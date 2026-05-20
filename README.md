@@ -55,4 +55,4 @@ For city-level context, see the [Fitz Lab city app](https://fitzlab.shinyapps.io
 
 ## Data source
 
-Weather data © [Meteostat](https://meteostat.net/). See their documentation for coverage, units, and licensing.
+Weather data [Meteostat](https://meteostat.net/). See their documentation for coverage, units, and licensing.
